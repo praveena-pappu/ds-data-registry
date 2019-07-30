@@ -1,0 +1,9 @@
+{
+  "id": "TVMAZE_DATA",
+  "name": "TVMaze Data",
+  "categories": ["DATABASE"],
+  "organization": "TVMaze",
+  "iconUrl": "https://static.tvmaze.com/images/tvm-header-logo.png",
+  "sourceUrl": "https://www.tvmaze.com/",
+  "dataVisibility": ["PRIVATE"]
+}
