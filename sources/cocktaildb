@@ -1,0 +1,9 @@
+{
+  "id": "COCKTAIL_NAME",
+  "name": "Cocktail name",
+  "categories": ["DRINKS"],
+  "organization": "thecocktaildb",
+  "iconUrl": "https://www.thecocktaildb.com/images/logo.png",
+  "sourceUrl": "https://www.thecocktaildb.com",
+  "dataVisibility": ["PRIVATE"]
+}
